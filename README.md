@@ -2,7 +2,7 @@
 
 A simple PowerShell monitor that expands on `gwmi -Class BatteryStatus -Namespace root\wmi` by computing charge/discharge rate, battery percentage, wear level, time-to-empty/time-to-full, and more.
 
-simply run the batterywidget.exe in build and you will have your working monitor.
+simply run the batterywidget.exe located in the build folder and you will have your working monitor.
 add to your start file to have int run on boot
 
 ## Features
